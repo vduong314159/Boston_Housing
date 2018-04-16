@@ -1,5 +1,6 @@
 # Boston_Housing
 
+You can find my final projecte [here](https://github.com/vduong314159/Boston_Housing/tree/master/ipynb).
 
 #### Domain
 This problem is drawn from the analysis of Housing data for 506 census tracts of Boston from the 1970 census.
