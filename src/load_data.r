@@ -1,8 +1,4 @@
-is_mlbench_installed <- require("mlbench")
-if (!is_mlbench_installed) {
-    install.packages("mlbench")
-    library(mlbench)
-}
+library(mlbench)
 
 data(BostonHousing2)
 
